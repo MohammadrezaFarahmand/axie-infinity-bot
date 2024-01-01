@@ -10,7 +10,7 @@ Setup
 
 3.Launch AXIEBOT.exe with correct settings 
 
-Warnin
+Warni
 Im not recommend you to play more than 24 hours per account. Im no take responsibility for any bans or blocks.
 
 Copyright
