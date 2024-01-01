@@ -1,3 +1,4 @@
+![image](https://github.com/MohammadrezaFarahmand/axie-infinity-bot/assets/109216626/9ddd4834-be0f-4746-87a5-e9ff079d0b79)
 About
 Bot uses WinAPI functions to take screenshots and recognize pixels of axie models and cards. This technology is more safe because we dont need to read memory of axie game process and we dont need any .dll injections.
 
